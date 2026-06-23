@@ -6,3 +6,4 @@ im here to do transaction on base
 2 transaction today confermed
 Add Base ecosystem learning resources
 Add Base wallet and bridge usage guide
+Update Base ecosystem projects list
