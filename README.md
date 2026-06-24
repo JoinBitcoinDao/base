@@ -8,3 +8,4 @@ Add Base ecosystem learning resources
 Add Base wallet and bridge usage guide
 Update Base ecosystem projects list
 feat: update Base network configuration and RPC endpoints
+docs: expand Base onboarding tutorial for new users
