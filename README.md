@@ -7,3 +7,4 @@ im here to do transaction on base
 Add Base ecosystem learning resources
 Add Base wallet and bridge usage guide
 Update Base ecosystem projects list
+feat: update Base network configuration and RPC endpoints
