@@ -11,3 +11,4 @@ feat: update Base network configuration and RPC endpoints
 docs: expand Base onboarding tutorial for new users
 base airdrop confermed
 b20 token is coming
+base network have a small bug.
