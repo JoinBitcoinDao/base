@@ -12,3 +12,4 @@ docs: expand Base onboarding tutorial for new users
 base airdrop confermed
 b20 token is coming
 base network have a small bug.
+b20 standard is running
