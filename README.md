@@ -13,3 +13,4 @@ base airdrop confermed
 b20 token is coming
 base network have a small bug.
 b20 standard is running
+b20 no activate yet?
