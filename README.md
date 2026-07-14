@@ -16,3 +16,4 @@ b20 standard is running
 b20 no activate yet?
 base translate bigest usdc
 i crait ferst token
+b20 standard is new for new token
