@@ -17,3 +17,4 @@ b20 no activate yet?
 base translate bigest usdc
 i crait ferst token
 b20 standard is new for new token
+base is twitted : base. why?
